@@ -9,7 +9,7 @@ Se creo una portada con una imagen de fondo y una barra de navegacion sobre ella
 ![Portada Blog de cafe](./img/blogDeCafePortada.PNG)
 
 Tenemos una vista principal con articulos del Blog
-![Vista principal del Blog](./img\vistaPrincipal.PNG)
+![Vista principal del Blog](./img/vistaPrincipal.PNG)
 
 En cada una de las páginas del proyecto se mantiene la portada principal
 ![Portada página nosotros](./img/portadaNosotros.PNG)
